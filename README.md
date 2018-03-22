@@ -10,5 +10,5 @@ Direction Arrows - Movement.
 Space - Jump.
 
 ## License
-We use an MIT License, see more information in [License](https://github.com/RyuuSukeChan/ProjectDungeon/blob/master/LICENSE)
+We use an MIT License, see more information in [License](https://github.com/dandraws21/TechnoRunner/blob/master/LICENSE)
 
