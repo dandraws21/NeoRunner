@@ -1,4 +1,5 @@
 # TechnoRunner
+Developed by Donkey Games.
 
 **Synopsis**
 --------
