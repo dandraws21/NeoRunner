@@ -13,3 +13,5 @@ Space - Jump.
 ## License
 We use an MIT License, see more information in [License](https://github.com/dandraws21/TechnoRunner/blob/master/LICENSE)
 
+![](https://github.com/dandraws21/TechnoRunner/blob/master/ArtSources/DonkeyGames_logo.png)
+
