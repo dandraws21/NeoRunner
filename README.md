@@ -1,7 +1,7 @@
 # TechnoRunner
 
 Developed by Donkey Games.
-by Daniel Coleto & Kenneth Salvador.
+by Daniel Coleto & Kenneth Salvadó.
 
 **Synopsis**
 --------
