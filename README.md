@@ -9,7 +9,7 @@ The best runner, with a futuristic look. Get the HighScore!
 
 **Controls**
 --------
-Direction Arrows - Movement.
+Movement.
 Space - Jump.
 
 ## License
