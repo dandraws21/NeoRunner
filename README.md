@@ -1,4 +1,4 @@
-# TechnoRunner
+# NeooRunner
 
 Developed by Donkey Games.
 by Daniel Coleto & Kenneth Salvadó.
